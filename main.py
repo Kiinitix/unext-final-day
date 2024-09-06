@@ -12,6 +12,10 @@ def run_URL():
 def exit():
     os.system('exit')
 
+# New code added!
+def demo():
+    return
+
 def start():
     print(pyfiglet.figlet_format("Malware Detector"))
     print(" Welcome to antimalware detector \n")
